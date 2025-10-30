@@ -1,0 +1,33 @@
+
+ #hero {
+   background: url("portfolio_icon.jfif") center/cover no-repeat;
+      color: block;
+      padding: 100px 0;
+      text-align: center;
+    }
+    #session {
+   background: url("portfolio2_icon.jfif") center/cover no-repeat;
+      color: darkred;
+      padding: 100px 0;
+      text-align: center;
+    }
+    .category-card img {
+      height: 200px;
+      width:250px;
+      object-fit: cover;
+    }
+     #tgl_flip{
+      background:lightpink ;
+      border:1px solid green;
+      text-align: center;
+      padding:5px;
+    cursor:pointer;
+    }
+
+    #tgl_panel{
+      background:lightpink ;
+      border:1px solid green;
+      
+      padding:50px;
+      display:none;
+    }
